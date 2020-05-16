@@ -1,5 +1,5 @@
 {
-  "name": "vim8-2-resize-template",
+  "name": "resize-directive",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,8 @@
     "@angular/router": "^8.2.0",
     "core-js": "2",
     "rxjs": "^6.5.2",
-    "zone.js": "^0.10.1"
+    "zone.js": "^0.10.1",
+    "tslib": "^2.0.0"
   },
   "scripts": {
     "ng": "ng",
